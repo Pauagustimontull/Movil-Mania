@@ -16,11 +16,27 @@
     background-color: rgb( 16, 170, 154);
    margin-right: 500px;
 }
+#resultado{
+    font-size: 300%;
+    font-style: arial;
+    color: #3d3b3b; 
+   margin-left: 20%;
+}
+#convtxt{
+    font-size: 300%;
+    font-style: arial;
+    color: #3d3939; 
+    margin-left: 20%;
+}
+
 #textoinicio{
-    font-size: 100px;
+    font-size: 800%;
     font-style: arial;
     color: #3d3939;
-   margin-left: 100px;
+   margin-left: auto;
+}
+#imagen1{
+    width: 35%;
 }
 #textoinicio2{
     font-size: 50px;
