@@ -1,6 +1,9 @@
 #main{
     background-color: rgb( 16, 170, 154);
 }
+#main1{
+    background-color: rgb(16, 170, 85);
+}
 #foto1{
     background-color: rgb( 16, 170, 154);
 }
@@ -28,15 +31,21 @@
     color: #3d3939; 
     margin-left: 20%;
 }
+#convtxt1{
+    font-size: 300%;
+    font-style: arial;
+    color: #3d3939; 
+    
+}
 
 #textoinicio{
-    font-size: 800%;
+    font-size: auto;
     font-style: arial;
     color: #3d3939;
    margin-left: auto;
 }
 #imagen1{
-    width: 35%;
+    width: 100%;
 }
 #textoinicio2{
     font-size: 50px;
