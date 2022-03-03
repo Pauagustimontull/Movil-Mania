@@ -1,0 +1,50 @@
+#main{
+    background-color: rgb( 16, 170, 154);
+}
+#foto1{
+    background-color: rgb( 16, 170, 154);
+}
+#imagen1{
+    background-color: rgb( 16, 170, 154);
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#negro{
+    background-color: rgb( 16, 170, 154);
+}
+#uno{
+    background-color: rgb( 16, 170, 154);
+   margin-right: 500px;
+}
+#textoinicio{
+    font-size: 100px;
+    font-style: arial;
+    color: #3d3939;
+   margin-left: 100px;
+}
+#textoinicio2{
+    font-size: 50px;
+    font-style: arial;
+    color: #beacac;
+   text-align: center;
+}
+#botones{
+    align-items: center;
+}
+.tamanomaximo{
+    width: 80%;
+}
+
+.center{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+li{
+    list-style: none;
+}
+.btn-center{
+    width: 80%;
+}
+.btn{
+    width: 31%;
+}
